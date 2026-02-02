@@ -8,3 +8,9 @@
 .worktrees/
 .security-key
 logs/security/
+
+
+*.png
+*.html
+
+1_30/
